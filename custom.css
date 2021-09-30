@@ -1,0 +1,39 @@
+
+
+
+
+
+
+/* .gpa__text_white{
+	color:white !important;
+	font-weight: 700;
+
+}
+.gpa__news_cat_title_wrapper h5{
+	background-color: var(--darkblue-color);
+	color:var(--white-color);
+	padding:10px;
+	padding-left:20px;
+	margin-bottom: 10px;
+	border-top:3px solid var(--orange-color);
+	text-transform: uppercase !important;
+	border-bottom-left-radius: 20px;
+	font-weight: 700 !important;
+  } */
+
+
+  .gpa__author_name{
+	  text-transform: uppercase !important;
+  }
+  .gpa__author_email{
+	  text-transform: lowercase !important;
+	  font-weight: bold;
+  }
+
+  .gpa__author_posts_title h4{
+	  background-color: var(--orange-color);
+	  color:white;
+	  padding:10px;
+	  border-radius: 20px;
+	  font-weight: 700;
+  }
